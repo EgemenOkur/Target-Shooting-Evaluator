@@ -17,7 +17,6 @@ Companies in funfairs can use it to entertain customers. As a result, the develo
 employed wherever the user wants it to be employed.
 
 
-Hardware Components
 The camera to be employed for the proposed shooting evaluator system can be chosen to be fairly
 low-cost. Two factors are considered when deciding on the hardware parts; i.e. being low-cost and being
 commercially available.
@@ -28,24 +27,19 @@ The hardware module of the proposed system consists of the following components:
 • Monitor: 7 Inches LCD Screen for Raspberry Pi
 
 
-
-OpenCV
 Open Source Computer Vision (Open CV) is an open source computer vision and machine learning
 software library. OpenCV is built to provide a common infrastructure for computer vision applications and
 to accelerate the use of machine perception in the commercial products [7].
 
-Pycharm
 Pycharm is an integrated development environment (IDE) used in computer programming, specifically
 for the Python language. It was developed by the Czech company JetBrains.
 
-Numpy
 Numpy is the fundamental package for scientific computing in Python. It is a Python library that
 provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and
 an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation,
 sorting, selecting, discrete Fourier transform, basic linear algebra, basic statistical operations, and stochastic
 simulations [8].
 
-Matplotlib
 Matplotlib is a Python library used to create 2D graphs and plots using Python scripts. It has a module
 named “pyplot” which enables plotting using various line styles, fonts, and axis formatting. Matplotlib
 supports a wide variety of graphs and plots such as histogram, bar charts, power spectra, error charts etc. It
